@@ -222,7 +222,7 @@ ttl=24h
 
 ### **4.1 Build Docker Image**
 
-We will create Docker containers that act as virtual machines (VMs) and configure them with the **ubuntu** user, SSH, and principals.
+We will create Docker containers that act as virtual machines (VMs) and configure them with the **rhel** user, SSH, and principals.
 
 Build the Docker image:
 
